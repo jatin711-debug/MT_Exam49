@@ -1,0 +1,44 @@
+/* MT Exam CSS */
+.gridArea {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-template-rows: auto;
+  grid-template-areas: 
+    "q1area q1area"
+    "q2area q4area"
+    "q3area q4area"
+  ;
+  gap: 10px;
+}
+
+#q1area {grid-area: q1area; text-align: center;}
+#q2area {grid-area: q2area; background-color: lightcyan;}
+#q3area {grid-area: q3area; background-color: powderblue;}
+#q4area {grid-area: q4area; background-color: whitesmoke;}
+
+h3 {color: navy; text-align: center;}
+button {
+  padding: 5px;
+  background-color: darkblue;
+  color: ivory;
+  border-radius: 5px;
+}
+
+table {margin-right: auto; margin-left: auto;}
+td, th {width: 30%; text-align: center;}
+
+label {font-style: italic; color: navy;}
+nav {color: brown;}
+
+
+
+img{
+  width: 30px;
+  height: 30px;
+}
+
+.myClass{
+  color:lightpink;
+  background-color:darkblue;
+  font-size: 1.25em;
+}

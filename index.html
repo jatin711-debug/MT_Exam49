@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<HTML>
+<head>
+<!-- Include your FULL name in the <title> tags below -->
+	<title>Jatin Mahajan</title>
+
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+	
+	<link href="css/mtexam.css" rel="stylesheet">
+	<script src="js/jquery.js"></script>
+	<script src="js/mtexamscript.js"></script>
+</head>
+
+<body>
+<!-- 
+	READ ALL INSTRUCTIONS BELOW CAREFULLY AND THOROUGHLY
+
+	This exam is created to show functionality; the output does not have to be mobile 
+		(though a mobile structure is partially set up...Don't worry about scrolling)
+	AJAX is used to retrieve the JSON file so application MUST be published using localhost
+
+	Getting Started:
+		1) Follow all COMMENTS in this file (index.html) to include your name in the <title> tags and
+			 update the comment lines below. These are all the changes needed for this file.
+		2) Go to the mtexam.json file in the mtdata/ folder and update the JSON file with your
+			 personal information where indicated then follow the directions for JSON validation
+		3) Go to the js/mtexamscript.js file and follow the comments to complete the coding
+-->
+
+<!-- Update the following 3 comment lines below with your personal information -->
+<!-- My Name:  /enter your full name here/ -->
+<!-- My Student Number:  /enter your student number/ -->
+<!-- My UserName: /enter your Sheridan User Name/ -->
+
+<!-- The <body> of this file is for reference when coding your application 
+			NO changes should be made to the HTML or identifiers in this file. 
+		
+		NOTE: q#area sections are strictly used for layout and not to be used for output areas -->
+
+<section class="gridArea">
+
+	<section id="q1area">
+		<div id="privateFacts"></div>						<!-- Question #1 output area -->		
+	</section>
+
+
+	<section id="q2area">
+		<button id="areaCheck">									<!-- Question #2 Button -->
+			Click to display all plants in the Stock Area CT551 only
+		</button>
+		<div id="stockList">
+			<ul>
+
+			</ul>
+		</div>							<!-- Question #2 Output Area -->
+	</section>
+
+
+	<section id="q3area">
+		<button id="anchorCheck">									 <!-- Question #3 Button -->
+			Click to highlight lines in the following list that include an anchor tag
+		</button>
+		<ul id="includesAnchor">									 <!-- Question #3 search area -->
+			<li><strong>Azeala (Shrub): </strong>Large double. Good grower, heavy bloomer.  <img src='images/shrubAzeala.jpg' width="20"></li>
+			<li title="ContainerPlant"><strong>Orchid</strong>: Choose the brightest windows in your house for your orchids</li>
+			<li><strong><a href="#">Bonsai (Container Plant): </a></strong>They do not thrive indoors, where the light is too dim, and humidity too low</li>
+			<li style="text-decoration: underline;"><strong>Lithops (Cacti): </strong><label>Ice Plant Family</label>-These plants blend in among the stones as a means of protection.</li>
+			<li><strong>Dianthus (Perennial):</strong> <img src='images/perDianthus.jpg' width="20" height="20">They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil.</li>
+			<li style="text-decoration: underline;"><strong>Agapanthus: </strong>Easily grown, tolerant of drought and poor soil - <label>In the monocot order Asparagales</label></li>
+			<li><strong><a href="#">Aloe Vera (Cacti)</a></strong>Drought tolerant, well drained soil. Prefers full sun.</li>
+			<li title="Shrub"><strong>Lavender: </strong>Quick-growing, herbaceous, shrub reaching up to 30 inches in height</li>
+		</ul>									
+	</section>
+
+	
+	<section id="q4area">
+		<h3>List of Plants by Department Group</h3>
+		<div>
+			<table>
+				<tr><th>Department</th><th>Plant Label</th><th>Retail Price</th><tr></tr>
+				<tbody id="listByDept"></tbody>			<!-- Question #4 Output Area -->	
+			</table>
+		</div>
+	</section>
+
+</section>
+
+</body>
+</html>
+

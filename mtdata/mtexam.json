@@ -1,0 +1,219 @@
+{
+	"PrivateP04" : {
+		"sheridanName" : "Jatin Mahajan",
+		"sheridanNumber" : "991601086",
+		"sheridanUsername" : "mahajaja",
+		"sheridanProg" : "Computer System Technician  - Software Engineer",
+		"sheridanCampus" : "Davis Campus"
+  },
+	"Inventory": [
+    {
+      "departmentGroup": "Shrubs",
+      "retailPrice": 15.99,
+      "careHelp": "Large double. Good grower, heavy bloomer. Early to mid-season, acid loving plants. Plant in moist well drained soil with pH of 4.0-5.5.",
+      "displayImg": "shrubAzeala.jpg",
+      "plantLabel": "Azalea",
+      "stockArea": "SH577"
+    },
+    {
+      "departmentGroup": "Shrubs",
+      "retailPrice": 33.99,
+      "careHelp": "Beautiful large royal purple flowers adorn attractive satiny green leaves that turn orange\\/red in cold weather. Grows to up to 18 feet, or prune annually to shorten.",
+      "displayImg": "shrubTibouchina.jpg",
+      "plantLabel": "Tibouchina",
+      "stockArea": "SH577"
+    },
+    {
+      "departmentGroup": "Shrubs",
+      "retailPrice": 12.99,
+      "careHelp": "Blooms in summer, 20-35 inches high. Fertilize regularly for best results. Full sun, drought tolerant.",
+      "displayImg": "shrubHibiscus.jpg",
+      "plantLabel": "Hibiscus",
+      "stockArea": "SH577"
+    },
+    {
+      "departmentGroup": "Shrubs",
+      "retailPrice": 5.99,
+      "careHelp": "Quick-growing, herbaceous, shrub reaching up to 30 inches in height, forming a rounded, dense bush.",
+      "displayImg": "shrubLavender.jpg",
+      "plantLabel": "Lavender",
+      "stockArea": "SH577"
+    },
+    {
+      "departmentGroup": "Shrubs",
+      "retailPrice": 15.99,
+      "careHelp": "Slow growing, upright to spreading shrub. Oval, glossy, leaves and profuse winter to spring blooming flowers.",
+      "displayImg": "shrubCamellia.jpg",
+      "plantLabel": "Camellia",
+      "stockArea": "SH577"
+    },
+    {
+      "departmentGroup": "Shrubs",
+      "retailPrice": 22.99,
+      "careHelp": "White colored flowers bushy rounded growth habit to 3 feet tall. Plant in full sun. Water regularly.",
+      "displayImg": "shrubRosa.jpg",
+      "plantLabel": "Rosa",
+      "stockArea": "SH577"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 45.99,
+      "careHelp": "They do not thrive indoors, where the light is too dim, and humidity too low, for them to grow properly.",
+      "displayImg": "cpBonsai.jpg",
+      "plantLabel": "Bonsai Tree",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 12.99,
+      "careHelp": "Blooms continuously from early spring to first frost. Full sun or part shade, moist well-drained soil.",
+      "displayImg": "cpCalibrachoa.jpg",
+      "plantLabel": "Calibrachoa Noa",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 14.99,
+      "careHelp": "The flowers last about ten weeks. They have a waxy texture and reach a height of more than 20 inches.",
+      "displayImg": "cpCymbidium.jpg",
+      "plantLabel": "Cymbidium Aestivum",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 4.99,
+      "careHelp": "Creamy-white centers, medium green outer foliage with flattened outer foliage.",
+      "displayImg": "cpBrassica.jpg",
+      "plantLabel": "Brassica Oleracea",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 5.99,
+      "careHelp": "Cotula have very fragrant orange flowers that bloom in the middle of summer.",
+      "displayImg": "cpPincushion.jpg",
+      "plantLabel": "Pincushion",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 4.99,
+      "careHelp": "Well drained neutral to slightly acid soil, bright light. Do not over-fertilize or these flowers will lose scent.",
+      "displayImg": "cpPelargonium.jpg",
+      "plantLabel": "Pelargonium Peltatum",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 3.99,
+      "careHelp": "Compact mounds of colorful dainty flowers, good for window boxes. Fertile well drained soil.",
+      "displayImg": "cpPansy.jpg",
+      "plantLabel": "Pansy Blue Shades",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Container Plants",
+      "retailPrice": 25.99,
+      "careHelp": "Choose the brightest windows in your house for your orchids, place on an humidity tray and spray regularly.",
+      "displayImg": "cpOrchid.jpg",
+      "plantLabel": "Orchid White",
+      "stockArea": "CP394"
+    },
+    {
+      "departmentGroup": "Perennials",
+      "retailPrice": 5.99,
+      "careHelp": "They thrive in fertile, fast draining, slightly alkaline (pH 6.75) soil. Avoid overwatering.",
+      "displayImg": "perDianthus.jpg",
+      "plantLabel": "Dianthus",
+      "stockArea": "PE490"
+    },
+    {
+      "departmentGroup": "Perennials",
+      "retailPrice": 9.99,
+      "careHelp": "Chrysanthemums respond to plenty of food and moisture, and prefer full sun.",
+      "displayImg": "perChrysanthemum.jpg",
+      "plantLabel": "Chrysanthemum",
+      "stockArea": "PE490"
+    },
+    {
+      "departmentGroup": "Perennials",
+      "retailPrice": 6.99,
+      "careHelp": "Grows to 15 inches. The species is easy to grow from seeds or cuttings. This species prefers full sun.",
+      "displayImg": "perSalvia.jpg",
+      "plantLabel": "Salvia Splendens",
+      "stockArea": "PE490"
+    },
+    {
+      "departmentGroup": "Perennials",
+      "retailPrice": 8.99,
+      "careHelp": "Easily grown, tolerant of drought and poor soil, flower and foliage improves with feeding. Full sun.",
+      "displayImg": "perAgapanthus.jpg",
+      "plantLabel": "Agapanthus",
+      "stockArea": "PE490"
+    },
+    {
+      "departmentGroup": "Perennials",
+      "retailPrice": 5.99,
+      "careHelp": "These plants are very hardy, easy to grow, and increase readily. Average flower size is 3-4 inches in diameter.",
+      "displayImg": "perIris.jpg",
+      "plantLabel": "Iris Sibirica",
+      "stockArea": "PE490"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 18.99,
+      "careHelp": "Add water until there is half inch of dry soil on the surface. Do not water again until the soil is completely dry.",
+      "displayImg": "cactiRed.jpg",
+      "plantLabel": "Red Cactus",
+      "stockArea": "CT551"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 30.99,
+      "careHelp": "Drought tolerant, well drained soil. Prefers full sun.",
+      "displayImg": "cactiAloe.jpg",
+      "plantLabel": "Aloe Vera",
+      "stockArea": "CT551"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 20.99,
+      "careHelp": "Easy to care for, requiring watering only when they’re dry. They like bright but indirect light.",
+      "displayImg": "cactiSchlumbergera.jpg",
+      "plantLabel": "Schlumbergera",
+      "stockArea": "CT551"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 18.5,
+      "careHelp": "Locate it in a place where it is exposed to at least a few hours of direct sunlight.",
+      "displayImg": "cactiSenecio.jpg",
+      "plantLabel": "Senecio Rowleyanus",
+      "stockArea": "CT551"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 12.99,
+      "careHelp": "These plants blend in among the stones as a means of protection. Grazing animals would otherwise eat them.",
+      "displayImg": "cactiLithops.jpg",
+      "plantLabel": "Lithops",
+      "stockArea": "CT551"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 25.99,
+      "careHelp": "Growing as a large roughly spherical globe, it may eventually reach over a meter in height after many years.",
+      "displayImg": "cactiEchinocactus.jpg",
+      "plantLabel": "Echinocactus Grusonii",
+      "stockArea": "CT551"
+    },
+    {
+      "departmentGroup": "Cacti",
+      "retailPrice": 16.99,
+      "careHelp": "The plants should be kept almost completely dry during the winter months, once a month should be fine.",
+      "displayImg": "cactiOpuntia.jpg",
+      "plantLabel": "Opuntia Falcata",
+      "stockArea": "CT551"
+    }
+  ]
+}
