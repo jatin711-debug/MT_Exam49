@@ -71,11 +71,10 @@ $("#areaCheck").click(()=>{
 	$("#stockUl").html(" ");
 	for(var i=0; i<Inventory.length; i++) {
 		if(Inventory[i].stockArea == "CT551"){
-			$("#stockUl").append(`
-			<li>
+			$("#stockList").append(`
 			Stock Area <b>${Inventory[i].stockArea}</b> includes plant <b>${Inventory[i].plantLabel}</b> at a cost of <b>${Inventory[i].retailPrice}</b> <img src="../images/${Inventory[i].displayImg}"/>
-			</li>
 			<hr>
+			<br>
 			`)
 		}
 	}
